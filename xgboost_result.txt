@@ -1,3 +1,5 @@
+############################### USE STANDAR SCALER ######################################
+
 Train accuracy: 95.7
 Train roc_auc_score: 90.6072316267258
 
@@ -153,4 +155,15 @@ Train roc_auc_score: 79.1251100679906
 Test rain accuracy: 84.96666666666667
 Test roc_auc_score: 68.59322552844053
 
+##################################### NOT USE ANY SCALER ######################################
 
+Best: 
+Train accuracy: 99.9857142857143                                                  
+Test roc_auc_score: 99.96558843771508
+
+Worst:
+Train accuracy: 84.64285714285714                                               
+Test roc_auc_score: 64.04887546091456
+
+Test accuracy: 80.53333333333333
+Test roc_auc_score: 50.0
