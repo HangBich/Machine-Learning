@@ -1,0 +1,156 @@
+Train accuracy: 95.7
+Train roc_auc_score: 90.6072316267258
+
+Train accuracy: 87.18571428571428 
+Train roc_auc_score: 71.39322223119682
+
+Train accuracy: 88.91428571428571
+Train roc_auc_score: 79.77303629833578
+
+Train accuracy: 90.07142857142857 
+Train roc_auc_score: 79.0808905590728
+
+Train accuracy: 92.28571428571428 
+Train roc_auc_score: 83.90672909508447
+
+Train accuracy: 83.45714285714286
+Train roc_auc_score: 60.40538768312975
+
+Train accuracy: 99.97142857142856 
+Train roc_auc_score: 99.93117687543014
+
+Train accuracy: 99.18571428571428 
+Train roc_auc_score: 98.31791543974279
+
+Train accuracy: 94.41428571428571  
+Train roc_auc_score: 87.81496319197359
+
+Train accuracy: 93.60000000000001
+Train roc_auc_score: 87.52975108163474
+
+Train accuracy: 90.67142857142856  
+Train roc_auc_score: 78.64674778787689
+
+Train accuracy: 86.31428571428572   
+Train roc_auc_score: 72.51962240708227
+
+Train accuracy: 95.01428571428572  
+Train roc_auc_score: 90.14916763970679
+
+Train accuracy: 96.48571428571428  
+Train roc_auc_score: 92.67765131875007
+
+Train accuracy: 91.97142857142858 
+Train roc_auc_score:83.12427704390845
+
+Train accuracy: 90.78571428571428 
+Train roc_auc_score: 81.66498982417784
+
+Train accuracy: 99.9857142857143  
+Train roc_auc_score: 99.96558843771508
+
+Train accuracy: 99.97142857142856 
+Train roc_auc_score: 99.93117687543014
+
+Train accuracy: 86.9 
+Train roc_auc_score: 73.9304964607643
+
+Train accuracy: 99.67142857142856   
+Train roc_auc_score: 99.20853406744666
+
+Train accuracy: 84.21428571428572  
+Train roc_auc_score: 64.31181031865466
+
+Train accuracy: 87.77142857142857 
+Train roc_auc_score: 87.77142857142857 
+
+Train accuracy: 87.5142857142857  
+Train roc_auc_score: 74.41968408361954
+
+Train accuracy: 94.19999999999999  
+Train roc_auc_score:  87.62895960949855
+
+Train accuracy: 88.17142857142856
+Train roc_auc_score: 76.40897884324792
+
+Train accuracy: 87.55714285714285
+Train roc_auc_score: 74.39593036593628
+
+Train accuracy: 86.81428571428572 
+Train roc_auc_score: 72.55573376530484
+
+Train accuracy: 87.52857142857144  
+Train roc_auc_score: 73.59057449504584
+
+Train accuracy: 88.0142857142857 
+Train roc_auc_score: 74.58278384638014
+
+Train accuracy: 86.04285714285714 
+Train roc_auc_score: 68.76728565294063
+
+Train accuracy: 88.65714285714286 
+Train roc_auc_score: 75.16619227471281
+
+Train accuracy: 89.11428571428571  
+Train roc_auc_score: 77.13088341868915
+
+Train accuracy: 100.0 
+Train roc_auc_score:100.0 
+
+Train accuracy: 91.78571428571428
+Train roc_auc_score: 82.57533601057398
+
+Train accuracy: 86.41428571428571  
+Train roc_auc_score: 73.2430592803213
+
+Train accuracy: 79.64285714285714 
+Train roc_auc_score: 50.96352374397798
+
+Train accuracy: 92.92857142857143  
+Train roc_auc_score: 84.76951201340086
+
+Train accuracy: 95.72857142857143 
+Train roc_auc_score: 90.93003156037173
+
+Train accuracy: 88.97142857142856 
+Train roc_auc_score: 78.8185822684484
+
+Train accuracy: 92.97142857142858 
+Train roc_auc_score: 85.78706321292947
+
+Train accuracy: 87.18571428571428  
+Train roc_auc_score: 72.68850395748476
+
+Train accuracy: 90.71428571428571
+Train roc_auc_score: 80.29924101009567
+
+Train accuracy: 89.02857142857142 
+Train roc_auc_score: 77.68634447220778
+
+Train accuracy: 90.28571428571428 
+Train roc_auc_score: 79.77484775969998
+
+Train accuracy: 100.0
+Train roc_auc_score: 100.0
+
+Train accuracy: 88.4857142857143
+Train roc_auc_score: 76.2771143817501
+
+Train accuracy: 87.5 
+Train roc_auc_score: 71.33755081242181
+
+Train accuracy: 87.72857142857143 
+Train roc_auc_score: 74.80886911335543
+
+Train accuracy: 89.58571428571429 
+Train roc_auc_score: 78.59663482589065
+
+Train accuracy: 89.9
+Train roc_auc_score: 79.1251100679906
+
+
+
+Test rain accuracy: 84.96666666666667
+Test roc_auc_score: 68.59322552844053
+
+
