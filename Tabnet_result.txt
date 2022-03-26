@@ -1,0 +1,11 @@
+1.Install pytorch_tabnet: !pip install pytorch-tabnet wget
+2.Dataset: https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling
+3.Results:
+a.Train:
+  accuracy_score: 0.8641666666666666
+  roc_auc_score: 0.7096478764918095
+b.Test:
+  accuracy_score: 0.859
+  roc_auc_score: 0.6940832965192042
+
+->In my perspective, tabnet is better than xgboost and tabtransformer
